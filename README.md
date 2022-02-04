@@ -9,3 +9,5 @@ I've been working in tech for about 10 years now and I'm ready for my own toolch
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=the-moisrex&show_icons=true&theme=gotham)
+
+![Snake animation](https://github.com/the-moisrex/the-moisrex/blob/output/github-contribution-grid-snake.svg)

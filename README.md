@@ -9,6 +9,6 @@ I've been working in tech for about 10 years now and I'm ready for my own toolch
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=the-moisrex&show_icons=true&theme=gotham)
-![GitHub Streak](https://streak-stats.demolab.com?user=the-moisrex&theme=gruvbox&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=the-moisrex&theme=merko&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)
 
 ![Snake animation](https://github.com/the-moisrex/the-moisrex/blob/output/github-contribution-grid-snake.svg)
